@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.card {
+    background-color: whitesmoke;
+    width: 300px;
+    border: 2px solid black;
+    margin: 50px;
+    padding: 20px;
+}
+
+.top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.like-button {
+    background-color:rgb(235, 186, 61);
+    width: 60px;
+    height: 30px;
+    border: 2px solid black;
+    box-shadow: 2px 2px black;
+    font-size: 1em;
+    margin-left: 10px;
+}
+
+p {
+    padding-top: 25px;
+}
